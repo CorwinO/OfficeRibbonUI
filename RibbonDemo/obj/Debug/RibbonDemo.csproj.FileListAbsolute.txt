@@ -1,0 +1,15 @@
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csprojResolveAssemblyReference.cache
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.BlackForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.Form1.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.FormClassResult.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MDIChild1.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MDIChild2.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MDIForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.NaviMain.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.RightToLeftForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.Properties.Resources.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.MainForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.TestForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.HostForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.ThemeBuilderForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\RibbonDemo\obj\Debug\RibbonDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\VbDemo\obj\Debug\VbDemo.vbprojResolveAssemblyReference.cache
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\VbDemo\obj\Debug\VbDemo.DemoForm.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\VbDemo\obj\Debug\VbDemo.Resources.resources
+D:\corwino\Desktop\RemoteSupportTool\RemoteSupportTool\Ribbon\VbDemo\obj\Debug\VbDemo.vbproj.GenerateResource.Cache
